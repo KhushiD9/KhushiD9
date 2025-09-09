@@ -1,16 +1,18 @@
 ## Hi, I'm Khushi Dutta 👋
 
-<!--
-**KhushiD9/KhushiD9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A STEM enthusiast from India, exploring the worlds of **Digital Electronics, Embedded systems, and AI**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/khushi-dutta-8b4791257/) | [GitHub](https://github.com/KhushiD9) | [Email](khushidutta2004@gmail.com)
+
+---
+
+### 🛠️ Languages & Tools
+
+**Languages:** C 💻 | C++ 💻 | Python 🐍 | Verilog 🖤 | MATLAB 📊 | Bash 🐚 | LaTeX ✍️ | Shell Scripting 🖥️  
+**Libraries:** NumPy 📊 | Pandas 🐼 | TensorFlow 🤖 | PyTorch 🔥  
+**Technologies:** RTL Design ⚡ | Timing Analysis ⏱️ | Deep Learning 🧠 | Ubuntu/Linux 🐧 | Verification ✅  
+**Tools & EDA:** ModelSim 🖥️ | Vivado ⚙️ | Xilinx ISE 🛠️ | LTSpice 🔌 | KiCad 🖊️ | AutoCAD 🏗️ | Keil ⚡ | cocotb 🧪 | ZView 📐  
+**Embedded Platforms:** ARM Cortex 🖤 | ESP32 🌐 | FPGA ⚡ | Arduino 🤖
