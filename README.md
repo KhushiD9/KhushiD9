@@ -1,6 +1,6 @@
 ## Hi, I'm Khushi Dutta 👋
 
-A curious STEM enthusiast from India, bridging teh gap between software and hardware while fixing problems caused by a missing semicolon or a loose connection.
+A curious STEM enthusiast from India, bridging the gap between software and hardware while fixing problems caused by a missing semicolon or a loose connection.
 
 ---
 
