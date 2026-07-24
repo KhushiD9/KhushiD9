@@ -1,6 +1,5 @@
 ## Hi, I'm Khushi Dutta
-
-A curious STEM enthusiast from India.
+<p><em>A curious STEM enthusiast from India.</em></p>
 ---
 
 ### 🔗 Let's Connect
